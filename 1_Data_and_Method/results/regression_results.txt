@@ -1,0 +1,12 @@
+Simple Linear Regression
+X = Year, Y = Average age of first-time homebuyers (2000-2025, n = 26)
+
+Equation:   Age = 191.36 + (-0.0769 x Year)
+Slope:      -0.0769 years per year  (about -0.77 years per decade)
+R-squared:  0.576
+p-value:    0.000007
+
+Interpretation: Each year is associated with first-time buyers being about
+0.08 years younger on average. Year explains about
+58% of the year-to-year variation in average first-time buyer age.
+Because p < 0.05, the relationship is statistically significant.
